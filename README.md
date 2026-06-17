@@ -25,13 +25,6 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 
 ---
 
-## 📸 Project Preview
-
-
-```
-image/wordcloud.png
-```
-
 ---
 
 ## 🛠️ Technologies Used
