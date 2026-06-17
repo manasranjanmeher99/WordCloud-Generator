@@ -28,8 +28,8 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 ## 📸 Project Preview
 
 
-```text
-![WordCloud-Generator](image/wordcloud.png)
+```
+image/wordcloud.png
 ```
 
 ---
