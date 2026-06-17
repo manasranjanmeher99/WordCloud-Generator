@@ -27,6 +27,8 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 
 ## 📸 Project Preview
 
+
+```text
 ![Word Cloud Generator](image/wordcloud.png)
 ```
 
@@ -52,7 +54,7 @@ WordCloud-Generator/
 ├── requirements.txt
 ├── README.md
 │
-└── images/
+└── image/
     └── wordcloud.png
 ```
 
@@ -130,15 +132,6 @@ Download Image
 
 ---
 
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The application will open automatically in your browser.
-
----
 
 ## 📦 Requirements
 
@@ -176,6 +169,7 @@ This project helps you understand:
 * Word Cloud Shapes (Circle, Heart, Star, etc.)
 
 ---
+
 
 ## ⭐ Support
 
