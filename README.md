@@ -29,7 +29,7 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 
 
 ```text
-![Word Cloud Generator](image/wordcloud.png)
+![WordCloud-Generator](image/wordcloud.png)
 ```
 
 ---
