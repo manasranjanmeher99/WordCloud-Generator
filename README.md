@@ -27,10 +27,7 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 
 ## 📸 Project Preview
 
-> Add your project screenshot below after creating it.
-
-```text
-!image/wordcloud.png
+![Word Cloud Generator](image/wordcloud.png)
 ```
 
 ---
