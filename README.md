@@ -30,7 +30,7 @@ An interactive Streamlit web application that generates beautiful Word Clouds fr
 > Add your project screenshot below after creating it.
 
 ```text
-image/wordcloud.png
+!image/wordcloud.png
 ```
 
 ---
